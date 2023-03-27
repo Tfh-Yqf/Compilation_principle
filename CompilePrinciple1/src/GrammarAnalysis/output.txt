@@ -1,0 +1,9 @@
+state	 symbol	 input	 action
+0	$	int 1i$	Shift to state 5
+这个输入不符合设定的SLR(1)文法-----------------------------------------
+state	 symbol	 input	 action
+这个输入不符合设定的SLR(1)文法-----------------------------------------
+state	 symbol	 input	 action
+这个输入不符合设定的SLR(1)文法-----------------------------------------
+state	 symbol	 input	 action
+这个输入不符合设定的SLR(1)文法-----------------------------------------
